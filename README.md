@@ -11,15 +11,7 @@
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=✬✬+ᴅᴀʀᴋ +ᴍᴀx+ᴍᴅ+ᴠᴇʀsɪᴏɴ+sᴛᴀʀᴛᴇᴅ+✬✬;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22readme+typing+svg+herokuapp%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=YOU+CAN+INSTALL+DARK+MAX+WA+BOT;SCROLL+DOWN+TO+INSTALL+DARK+MAX+BOT;STEP+1;CLICK+RUN+ON+REPLIT+BUTTON;SCAN+QR+ON+YOUR+WHATSAPP+ACOUNT;GO+WHATSAPP%2BCLICK+LINK+A+DEVICE%2BSCAN+QR;STEP+2;COMING+SOON.....)](https://git.io/typing-svg)
 
 </a>
 <p align="center">
