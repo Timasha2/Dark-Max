@@ -11,7 +11,7 @@
 </a>
              
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=YOU+CAN+INSTALL+DARK+MAX+WA+BOT;SCROLL+DOWN+TO+INSTALL+DARK+MAX+BOT;STEP+1;CLICK+RUN+ON+REPLIT+BUTTON;SCAN+QR+ON+YOUR+WHATSAPP+ACOUNT;GO+WHATSAPP%2BCLICK+LINK+A+DEVICE%2BSCAN+QR;STEP+2;COMING+SOON.....)](https://git.io/typing-svg)
+<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=YOU+CAN+INSTALL+DARK+MAX+WA+BOT;SCROLL+DOWN+TO+INSTALL+DARK+MAX+BOT;STEP+1;CLICK+RUN+ON+REPLIT+BUTTON;SCAN+QR+ON+YOUR+WHATSAPP+ACOUNT;GO+WHATSAPP%2BCLICK+LINK+A+DEVICE%2BSCAN+QR;STEP+2;COMING+SOON.....)](https://git.io/typing-svg)">
 
 </a>
 <p align="center">
