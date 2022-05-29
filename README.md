@@ -10,8 +10,7 @@
 
 </a>
              
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4999&color=F71FD9&lines=%E2%9C%AC%E2%9C%AC%E1%B4%85%E1%B4%80%CA%80%E1%B4%8B+%E1%B4%8D%E1%B4%80x+%E1%B4%8D%E1%B4%85+%E1%B4%A0%E1%B4%87%CA%80s%C9%AA%E1%B4%8F%C9%B4+s%E1%B4%9B%E1%B4%80%CA%80%E1%B4%9B%E1%B4%87%E1%B4%85%E2%9C%AC%E2%9C%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.comduration=4999&color=F71FD9&lines=%E2%9C%AC%E2%9C%AC%E1%B4%85%E1%B4%80%CA%80%E1%B4%8B+%E1%B4%8D%E1%B4%80x+%E1%B4%8D%E1%B4%85+%E1%B4%A0%E1%B4%87%CA%80s%C9%AA%E1%B4%8F%C9%B4+s%E1%B4%9B%E1%B4%80%CA%80%E1%B4%9B%E1%B4%87%E1%B4%85%E2%9C%AC%E2%9C%AC;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 </a>
 <p align="center">
