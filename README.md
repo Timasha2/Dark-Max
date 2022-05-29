@@ -1,6 +1,4 @@
-#### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/ChamodKeshan/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/ChamodKeshan/Hashzi-X)
+
     
 </a>          
 
@@ -8,12 +6,12 @@
 </a>
 
 ![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
-<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> ✬✬ᴅᴀʀᴋ ᴍᴀx ᴍᴅ ᴠᴇʀsɪsɪᴏɴ✬✬ (ᴠɪᴘ) </b></h1>
 
 </a>
              
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=✬+✬+ᴅᴀʀᴋ+ᴍᴀx+ᴍᴅ+ᴠᴇʀsɪsɪᴏɴ+sᴛᴀʀᴛᴇᴅ+✬+✬&font=Fira%20Code&center=true&width=380&height=50">
 
 </a>
 <p align="center">
