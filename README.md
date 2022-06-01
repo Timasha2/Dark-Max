@@ -5,7 +5,7 @@
 
 </a>
 
-![logo](https://dragon.online-convert.com/download-file/5ac2fc04-0ff7-456c-b147-1484f6b73656/1db42016-a180-47ba-93e1-713d9dc5f26d width="300")
+![logo](https://dragon.online-convert.com/download-file/5ac2fc04-0ff7-456c-b147-1484f6b73656/1db42016-a180-47ba-93e1-713d9dc5f26d)width="300"
 <h1 align="center"><b> ✬✬ᴅᴀʀᴋ ᴍᴀx ᴍᴅ ᴠᴇʀsɪsɪᴏɴ✬✬ (ᴠɪᴘ) </b></h1>
 
 </a>
@@ -45,8 +45,8 @@
     <img src="https://img.shields.io/github/license/ChamodKeshan/Hashzi-X?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/ChamodKeshan/Hashzi-X">
-    <img src="https://img.shields.io/github/languages/top/ChamodKeshan/Hashzi-X?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/https://github.com/Timasha2/Dark-Max">
+    <img src="https://img.shields.io/github/languages/top/Timasha2/Dark-Max?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/Timasha2">
