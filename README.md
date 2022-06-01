@@ -5,7 +5,7 @@
 
 </a>
 
-![logo](https://telegra.ph/file/702bfc5e4176727a34559.jpg)
+![logo](https://dragon.online-convert.com/download-file/5ac2fc04-0ff7-456c-b147-1484f6b73656/1db42016-a180-47ba-93e1-713d9dc5f26d)
 <h1 align="center"><b> ✬✬ᴅᴀʀᴋ ᴍᴀx ᴍᴅ ᴠᴇʀsɪsɪᴏɴ✬✬ (ᴠɪᴘ) </b></h1>
 
 </a>
@@ -60,7 +60,7 @@
 </p>
 
 #### SCAN QR 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/Alexa?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Timasha2/DARK-MAX-QR-1)
 
 
 
