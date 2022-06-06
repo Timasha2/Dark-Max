@@ -890,8 +890,8 @@ FROM fusuf/whatsasena:latest
 #ROOT -GDGHJJVSD.COMBGJJGSHGH
 #API-ggeuu6eetyr2112345.wryuu yuuintu.u88u5.yuurrtuutrt
 #gjufyuiiyuiiitwwryumjgstu.srAWFHJKOUFREW35YGFSS=Efyhfsryyyuuteett66wscjjhhg
-RUN git clone https://github.com/Timasha2/Changumi-X /root/ales
-WORKDIR /root/ales/
+RUN git clone  https://github.com/MrTima01/Bot-Z /root/Z-BOT
+WORKDIR /root/Z-BOT/
 #CHGDEGHHKOLOVK-gyshjsaryi
 #ROOT -GDGHJJVSD.COMBGJJGSHGH
 #API-ggeuu6eetyr2112345.wryuu yuuintu.u88u5.yuurrtuutrt
